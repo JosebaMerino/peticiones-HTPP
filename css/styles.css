@@ -1,0 +1,30 @@
+main {
+  margin: 20px;
+}
+
+.peticion {
+  margin-top: 10px;
+  border: 1px solid rgb(2, 117, 216);
+  background-color: rgb(240, 252, 255);
+  border-radius: 5px;
+  padding: 7px;
+  display: flex;
+  align-items: center;
+}
+
+.URL {
+  font-weight: bolder;
+  padding-right: 10px;
+}
+
+.accion {
+  display: inline-block;
+  min-width: 75px;
+  text-align: center;
+  background-color: rgb(2, 117, 216)  ;
+  color:rgba(255, 255, 255, 0.9);
+  padding: 7px;
+  border-radius: 5px;
+  font-weight: bolder;
+  margin-right: 10px;
+}
